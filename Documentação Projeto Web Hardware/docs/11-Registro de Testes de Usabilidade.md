@@ -1,4 +1,4 @@
-# Registro de Testes de Software
+# Registro de Testes de Usabilidade
 
 CT-01 - Responsividade | Lucas:
 "Eu mesmo sem possuir um computador consegui acessar e sanar minhas dúvidas neste site, as informações se adequaram ao tamanho da tela

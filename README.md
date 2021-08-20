@@ -12,12 +12,12 @@ De uma forma geral, o objetivo é fazer com que o usuário passe a entender de u
 
 ## Integrantes
 
-- <a href="https://github.com/joaosena19">Gabriel Ilídio Souza de Menezes</a>
+- <a href="https://github.com/gilidio8">Gabriel Ilídio Souza de Menezes</a>
 - <a href="https://github.com/lipebohmmitre">Felipe Bohm Vaz Mitre Costa</a>
-- <a href="https://github.com/gilidio8">Iago Iann Rocha Ferreira</a>
-- <a href="https://github.com/YuriWiter-dev">João Pedro Sena Dainese</a>
+- <a href="https://github.com/IagoIann">Iago Iann Rocha Ferreira</a>
+- <a href="https://github.com/joaosena19">João Pedro Sena Dainese</a>
 - <a href="https://github.com/VictorLopes1010">Victor Lopes Macedo dos Santos</a>
-- <a href="https://github.com/IagoIann">Yuri Witer Rocha Barboza</a>
+- <a href="https://github.com/YuriWiter-dev">Yuri Witer Rocha Barboza</a>
 
 ## Professora
 
